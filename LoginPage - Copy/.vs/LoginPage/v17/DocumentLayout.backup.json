@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|e:\\aiub\\7th semester\\oop-2 (c#)\\project by junayed\\loginpage - copy\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|LoginPage||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:manager_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:ceo_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:auditor_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C57BC990-7FE6-4B0C-809A-AAB910098EE3}|LoginPage.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 312,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T14:38:05.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CEO_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\CEO_Dashboard.cs",
+              "RelativeDocumentMoniker": "CEO_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\CEO_Dashboard.cs [Design]",
+              "RelativeToolTip": "CEO_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:04:45.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Manager_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Manager_Dashboard.cs",
+              "RelativeDocumentMoniker": "Manager_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Manager_Dashboard.cs [Design]",
+              "RelativeToolTip": "Manager_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:50:35.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager_Dashboard.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Manager_Dashboard.cs",
+              "RelativeDocumentMoniker": "Manager_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Manager_Dashboard.cs",
+              "RelativeToolTip": "Manager_Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T07:56:44.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CEO_Dashboard.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\CEO_Dashboard.cs",
+              "RelativeDocumentMoniker": "CEO_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\CEO_Dashboard.cs",
+              "RelativeToolTip": "CEO_Dashboard.cs",
+              "ViewState": "AgIAAA8EAAAAAAAAAAAgwFkEAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T14:05:05.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auditor_Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Auditor_Dashboard.cs",
+              "RelativeDocumentMoniker": "Auditor_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Auditor_Dashboard.cs [Design]",
+              "RelativeToolTip": "Auditor_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:01:32.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginPage.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.cs",
+              "RelativeToolTip": "LoginPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:04:07.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Auditor_Dashboard.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Auditor_Dashboard.cs",
+              "RelativeDocumentMoniker": "Auditor_Dashboard.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\Auditor_Dashboard.cs",
+              "RelativeToolTip": "Auditor_Dashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:45:32.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\DataAccess.cs",
+              "RelativeToolTip": "DataAccess.cs",
+              "ViewState": "AgIAACgAAABAZGZmZiYmwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:22:44.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.csproj",
+              "RelativeDocumentMoniker": "LoginPage.csproj",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.csproj",
+              "RelativeToolTip": "LoginPage.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-16T06:36:23.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginPage.cs [Design]",
+              "DocumentMoniker": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.cs",
+              "RelativeDocumentMoniker": "LoginPage.cs",
+              "ToolTip": "E:\\AIUB\\7th Semester\\OOP-2 (C#)\\PROJECT BY JUNAYED\\LoginPage - Copy\\LoginPage.cs [Design]",
+              "RelativeToolTip": "LoginPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-12T16:03:42.711Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
